@@ -1,0 +1,67 @@
+{
+  "n_patches": 10,
+  "total_valid_pixels": 4225936,
+  "susceptibility_stats": {
+    "min": 0.0,
+    "max": 0.9925159811973572,
+    "mean": 0.37040799856185913,
+    "std": 0.20086219906806946
+  },
+  "class_distribution": {
+    "Very Low": {
+      "class_id": 1,
+      "pixel_count": 844104,
+      "pct": 19.97,
+      "range": [
+        0.0,
+        0.2
+      ]
+    },
+    "Low": {
+      "class_id": 2,
+      "pixel_count": 1656011,
+      "pct": 39.19,
+      "range": [
+        0.2,
+        0.4
+      ]
+    },
+    "Moderate": {
+      "class_id": 3,
+      "pixel_count": 1148469,
+      "pct": 27.18,
+      "range": [
+        0.4,
+        0.6
+      ]
+    },
+    "High": {
+      "class_id": 4,
+      "pixel_count": 456385,
+      "pct": 10.8,
+      "range": [
+        0.6,
+        0.8
+      ]
+    },
+    "Very High": {
+      "class_id": 5,
+      "pixel_count": 120967,
+      "pct": 2.86,
+      "range": [
+        0.8,
+        1.0
+      ]
+    }
+  },
+  "ahp_weights": {
+    "Slope": 0.3639061537455906,
+    "Aspect": 0.1364391430080286,
+    "NDVI": 0.23172569310667832,
+    "NDWI": 0.1364391430080286,
+    "BSI": 0.08033481093611529,
+    "NBR": 0.0511550561955586
+  },
+  "CR": 0.01239,
+  "consistent": true
+}

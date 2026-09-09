@@ -1,0 +1,7 @@
+Factor,Band,Weight,Weight_%,Invert
+Slope,slope,0.3639,36.39,False
+Aspect,aspect,0.1364,13.64,False
+NDVI,NDVI,0.2317,23.17,True
+NDWI,NDWI,0.1364,13.64,False
+BSI,BSI,0.0803,8.03,False
+NBR,NBR,0.0512,5.12,True
