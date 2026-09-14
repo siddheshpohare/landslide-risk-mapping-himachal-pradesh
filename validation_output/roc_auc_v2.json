@@ -1,0 +1,70 @@
+{
+  "global_auc_v1": 0.6239120774838096,
+  "global_auc_v2": 0.6257401986578791,
+  "delta_global_auc": 0.001828121174069497,
+  "n_total_pixels": 4225936,
+  "n_landslide_pixels": 349400,
+  "n_no_landslide_pixels": 3876536,
+  "mask_fixes": {
+    "Lahaul_Spiti": {
+      "method": "NDVI-only fixed threshold",
+      "threshold": 0.05,
+      "ls_pct_v1": 1.5443570935166606,
+      "ls_pct_v2": 2.3244066219626234
+    },
+    "Sirmaur_Giri": {
+      "method": "seasonal normalisation (Option B)",
+      "raw_dnbr_mean": -0.23313286900520325,
+      "raw_dndvi_mean": -0.22817745804786682,
+      "offset_nbr": -0.2353479415178299,
+      "offset_ndvi": -0.23072311282157898,
+      "corr_dnbr_thresh": 0.19336665119044483,
+      "corr_dndvi_thresh": 0.19934284617193043,
+      "ls_pct": 10.179086043639357
+    },
+    "Rampur_Sutlej": {
+      "method": "seasonal normalisation (Option B)",
+      "raw_dnbr_mean": -0.27719902992248535,
+      "raw_dndvi_mean": -0.21331366896629333,
+      "offset_nbr": -0.2792515754699707,
+      "offset_ndvi": -0.21516044437885284,
+      "corr_dnbr_thresh": 0.21606541075743735,
+      "corr_dndvi_thresh": 0.20185675926040858,
+      "ls_pct": 10.475068838536309
+    }
+  },
+  "thresholds": {
+    "class_gte_4_High+": {
+      "precision": 0.13564342030511717,
+      "recall": 0.22413852318259875,
+      "f1": 0.16900745830599773,
+      "accuracy": 0.8177625027922808,
+      "confusion_matrix": [
+        [
+          3377498,
+          499038
+        ],
+        [
+          271086,
+          78314
+        ]
+      ]
+    },
+    "class_gte_3_Moderate+": {
+      "precision": 0.12075759884715738,
+      "recall": 0.5964682312535775,
+      "f1": 0.20085186107889233,
+      "accuracy": 0.607564099408983,
+      "confusion_matrix": [
+        [
+          2359121,
+          1517415
+        ],
+        [
+          140994,
+          208406
+        ]
+      ]
+    }
+  }
+}

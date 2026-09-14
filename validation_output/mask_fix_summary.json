@@ -1,0 +1,103 @@
+{
+  "run_timestamp": "2026-09-13 02:44:44.336594",
+  "global_auc_v1": 0.6239120774838096,
+  "global_auc_v2": 0.6257401986578791,
+  "global_delta": 0.001828121174069497,
+  "site_summaries": [
+    {
+      "site": "Mandi_NH3",
+      "auc_v1": 0.8346848868849276,
+      "auc_v2": 0.8346848868849276,
+      "ls_pct_v1": 6.371686022848814,
+      "ls_pct_v2": 6.371686022848814,
+      "delta_auc": 0.0,
+      "target": false
+    },
+    {
+      "site": "Shimla_NH5",
+      "auc_v1": 0.832585042855539,
+      "auc_v2": 0.832585042855539,
+      "ls_pct_v1": 12.269036354463156,
+      "ls_pct_v2": 12.269036354463156,
+      "delta_auc": 0.0,
+      "target": false
+    },
+    {
+      "site": "Solan_Shivalik",
+      "auc_v1": 0.7135571128750049,
+      "auc_v2": 0.7135571128750049,
+      "ls_pct_v1": 6.847810025882162,
+      "ls_pct_v2": 6.847810025882162,
+      "delta_auc": 0.0,
+      "target": false
+    },
+    {
+      "site": "Rampur_Sutlej",
+      "auc_v1": 0.6592141247134258,
+      "auc_v2": 0.6592141247134258,
+      "ls_pct_v1": 10.47506883853631,
+      "ls_pct_v2": 10.47506883853631,
+      "delta_auc": 0.0,
+      "target": true
+    },
+    {
+      "site": "Kangra_Banganga",
+      "auc_v1": 0.638386964772014,
+      "auc_v2": 0.638386964772014,
+      "ls_pct_v1": 9.187237512549904,
+      "ls_pct_v2": 9.187237512549904,
+      "delta_auc": 0.0,
+      "target": false
+    },
+    {
+      "site": "Kullu_Beas",
+      "auc_v1": 0.6103892809681958,
+      "auc_v2": 0.6103892809681958,
+      "ls_pct_v1": 5.9956174453947835,
+      "ls_pct_v2": 5.9956174453947835,
+      "delta_auc": 0.0,
+      "target": false
+    },
+    {
+      "site": "Chamba_Ravi",
+      "auc_v1": 0.5894208757920386,
+      "auc_v2": 0.5894208757920386,
+      "ls_pct_v1": 7.50460383582698,
+      "ls_pct_v2": 7.50460383582698,
+      "delta_auc": 0.0,
+      "target": false
+    },
+    {
+      "site": "Sirmaur_Giri",
+      "auc_v1": 0.5785774732690484,
+      "auc_v2": 0.5785774732690484,
+      "ls_pct_v1": 10.179086043639357,
+      "ls_pct_v2": 10.179086043639357,
+      "delta_auc": 0.0,
+      "target": true
+    },
+    {
+      "site": "Kinnaur_Sutlej",
+      "auc_v1": 0.5027401879879136,
+      "auc_v2": 0.5027401879879136,
+      "ls_pct_v1": 11.6189151072872,
+      "ls_pct_v2": 11.6189151072872,
+      "delta_auc": 0.0,
+      "target": false
+    },
+    {
+      "site": "Lahaul_Spiti",
+      "auc_v1": 0.3365156390814368,
+      "auc_v2": 0.3296897413260473,
+      "ls_pct_v1": 1.5443570935166606,
+      "ls_pct_v2": 2.3244066219626234,
+      "delta_auc": -0.006825897755389498,
+      "target": true
+    }
+  ],
+  "target_auc_met": {
+    "Lahaul_Spiti": false,
+    "Sirmaur_Giri": false,
+    "Rampur_Sutlej": false
+  }
+}

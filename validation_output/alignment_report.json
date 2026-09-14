@@ -1,0 +1,202 @@
+{
+  "Chamba_Ravi": {
+    "site": "Chamba_Ravi",
+    "susc_crs": "EPSG:4326",
+    "mask_crs": "EPSG:4326",
+    "susc_shape": [
+      602,
+      709
+    ],
+    "mask_shape": [
+      602,
+      709
+    ],
+    "crs_match": true,
+    "size_match": true,
+    "res_match": true,
+    "result": "matched",
+    "ls_pct": 7.5046038358269795,
+    "t_nbr": 0.0222027450799942,
+    "t_ndvi": 0.05358388274908066
+  },
+  "Kangra_Banganga": {
+    "site": "Kangra_Banganga",
+    "susc_crs": "EPSG:4326",
+    "mask_crs": "EPSG:4326",
+    "susc_shape": [
+      601,
+      706
+    ],
+    "mask_shape": [
+      601,
+      706
+    ],
+    "crs_match": true,
+    "size_match": true,
+    "res_match": true,
+    "result": "matched",
+    "ls_pct": 9.187237512549904,
+    "t_nbr": 0.0029806122183799744,
+    "t_ndvi": 0.13697674125432968
+  },
+  "Kinnaur_Sutlej": {
+    "site": "Kinnaur_Sutlej",
+    "susc_crs": "EPSG:4326",
+    "mask_crs": "EPSG:4326",
+    "susc_shape": [
+      602,
+      702
+    ],
+    "mask_shape": [
+      602,
+      702
+    ],
+    "crs_match": true,
+    "size_match": true,
+    "res_match": true,
+    "result": "matched",
+    "ls_pct": 11.6189151072872,
+    "t_nbr": 0.38121308386325836,
+    "t_ndvi": 0.10270924121141434
+  },
+  "Kullu_Beas": {
+    "site": "Kullu_Beas",
+    "susc_crs": "EPSG:4326",
+    "mask_crs": "EPSG:4326",
+    "susc_shape": [
+      602,
+      705
+    ],
+    "mask_shape": [
+      602,
+      705
+    ],
+    "crs_match": true,
+    "size_match": true,
+    "res_match": true,
+    "result": "matched",
+    "ls_pct": 5.9956174453947835,
+    "t_nbr": 0.08586950600147247,
+    "t_ndvi": 0.07716415449976921
+  },
+  "Lahaul_Spiti": {
+    "site": "Lahaul_Spiti",
+    "susc_crs": "EPSG:4326",
+    "mask_crs": "EPSG:4326",
+    "susc_shape": [
+      602,
+      707
+    ],
+    "mask_shape": [
+      602,
+      707
+    ],
+    "crs_match": true,
+    "size_match": true,
+    "res_match": true,
+    "result": "matched",
+    "ls_pct": 1.5443570935166606,
+    "t_nbr": 1.1532755345106125,
+    "t_ndvi": 0.06072964519262314
+  },
+  "Mandi_NH3": {
+    "site": "Mandi_NH3",
+    "susc_crs": "EPSG:4326",
+    "mask_crs": "EPSG:4326",
+    "susc_shape": [
+      602,
+      702
+    ],
+    "mask_shape": [
+      602,
+      702
+    ],
+    "crs_match": true,
+    "size_match": true,
+    "res_match": true,
+    "result": "matched",
+    "ls_pct": 6.371686022848813,
+    "t_nbr": 0.016107410192489624,
+    "t_ndvi": 0.0655791312456131
+  },
+  "Rampur_Sutlej": {
+    "site": "Rampur_Sutlej",
+    "susc_crs": "EPSG:4326",
+    "mask_crs": "EPSG:4326",
+    "susc_shape": [
+      602,
+      701
+    ],
+    "mask_shape": [
+      602,
+      701
+    ],
+    "crs_match": true,
+    "size_match": true,
+    "res_match": true,
+    "result": "matched",
+    "ls_pct": 10.475068838536309,
+    "t_nbr": -0.0631861761212349,
+    "t_ndvi": -0.013303689658641815
+  },
+  "Shimla_NH5": {
+    "site": "Shimla_NH5",
+    "susc_crs": "EPSG:4326",
+    "mask_crs": "EPSG:4326",
+    "susc_shape": [
+      602,
+      698
+    ],
+    "mask_shape": [
+      602,
+      698
+    ],
+    "crs_match": true,
+    "size_match": true,
+    "res_match": true,
+    "result": "matched",
+    "ls_pct": 12.269036354463156,
+    "t_nbr": 0.15935619920492172,
+    "t_ndvi": 0.36137235816568136
+  },
+  "Sirmaur_Giri": {
+    "site": "Sirmaur_Giri",
+    "susc_crs": "EPSG:4326",
+    "mask_crs": "EPSG:4326",
+    "susc_shape": [
+      602,
+      694
+    ],
+    "mask_shape": [
+      602,
+      694
+    ],
+    "crs_match": true,
+    "size_match": true,
+    "res_match": true,
+    "result": "matched",
+    "ls_pct": 10.179086043639357,
+    "t_nbr": -0.0419812873005867,
+    "t_ndvi": -0.03138025104999542
+  },
+  "Solan_Shivalik": {
+    "site": "Solan_Shivalik",
+    "susc_crs": "EPSG:4326",
+    "mask_crs": "EPSG:4326",
+    "susc_shape": [
+      602,
+      697
+    ],
+    "mask_shape": [
+      602,
+      697
+    ],
+    "crs_match": true,
+    "size_match": true,
+    "res_match": true,
+    "result": "matched",
+    "ls_pct": 6.847810025882161,
+    "t_nbr": 0.03443154692649841,
+    "t_ndvi": 0.05222476273775101
+  }
+}
